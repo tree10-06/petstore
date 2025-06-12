@@ -18,6 +18,9 @@ header {
     background-color: #79c7d1; 
 
     background-image: url(petshop-img/jumbotron.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: center; 
 
     padding: 20px; 
 
